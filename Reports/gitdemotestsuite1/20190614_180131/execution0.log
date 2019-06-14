@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-14T18:01:43</date>
+  <millis>1560515503312</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/gitdemotestsuite1</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">gitdemotestsuite1</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/gitdemotestsuite1</property>
+</record>
+<record>
+  <date>2019-06-14T18:01:43</date>
+  <millis>1560515503342</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = nalla.sowmya - DSHYD-PC-085.testingxperts.loc</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">nalla.sowmya - DSHYD-PC-085.testingxperts.loc</property>
+</record>
+<record>
+  <date>2019-06-14T18:01:43</date>
+  <millis>1560515503343</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Windows 10 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 10 64bit</property>
+</record>
+<record>
+  <date>2019-06-14T18:01:43</date>
+  <millis>1560515503345</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 172.16.3.10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">172.16.3.10</property>
+</record>
+<record>
+  <date>2019-06-14T18:01:43</date>
+  <millis>1560515503348</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 6.1.5.3</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">6.1.5.3</property>
+</record>
+<record>
+  <date>2019-06-14T18:01:44</date>
+  <millis>1560515504151</millis>
+  <sequence>5</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/gitdemotestsuite1</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>
