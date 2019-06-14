@@ -17,5 +17,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.naukri.com/nlogin/login?msg=0&URL=https%3A%2F%2Fmy.naukri.com')
 
+WebUI.setText(findTestObject('Object Repository/git2testcase/Page_Jobseekers Login Search the Best Jobs available in India  Abroad - Naukricom/input_Email ID  Username_usernameField'), 
+    'sowmyareddy')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/git2testcase/Page_Jobseekers Login Search the Best Jobs available in India  Abroad - Naukricom/input_Password_passwordField'), 
+    'BOryKUSLMyLqmNeHQ/bJGQ==')
+
+WebUI.click(findTestObject('Object Repository/git2testcase/Page_Jobseekers Login Search the Best Jobs available in India  Abroad - Naukricom/button_Login'))
+
 WebUI.closeBrowser()
 
